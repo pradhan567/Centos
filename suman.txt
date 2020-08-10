@@ -1,2 +1,6 @@
 Hi this is suman Sahoo
+<<<<<<< HEAD
 She is a software tester
+=======
+She is a girl
+>>>>>>> d79536776012a28f7ab99ebb0f82a2856ee8817b
